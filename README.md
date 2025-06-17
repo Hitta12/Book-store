@@ -1,3 +1,3 @@
 # Book Store
 
-This Project contains Backend in Node.JS to manage Books data using MongoDB.
+This Project contains Backend in Express.JS to manage Books data using MongoDB.
